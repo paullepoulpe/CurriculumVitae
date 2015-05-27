@@ -1,3 +1,0 @@
-include_rules
-
-: cv.tex	|> !xelatex	|> %B.pdf %B.out %B.aux %B.log
