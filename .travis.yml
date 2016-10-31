@@ -1,4 +1,4 @@
-language: generic
+language: none
 sudo: false
 cache: apt
 addons:
