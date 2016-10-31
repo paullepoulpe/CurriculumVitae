@@ -1,4 +1,4 @@
-language: latex
+language: generic
 sudo: false
 cache: apt
 addons:
